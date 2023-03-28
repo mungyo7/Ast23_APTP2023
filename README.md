@@ -1,6 +1,6 @@
 # Ast23_1stRepo
 
-<h1>APTP 2023 - {ㅇㅇ}</h1>
+<h1>APTP 2023 - {ㅇㅇㅇ}</h1>
 <h6>Asterisk Programming Team Project 2023</h6>
 <h4>Team Members: 서문교 | 박동재 | 박성제 | 김현수 | 강찬수 </h4>
 
